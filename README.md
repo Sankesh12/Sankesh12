@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Sankesh Lal
 
-**AI & Data Science Enthusiast | Skilled in Python & Machine Learning | Aspiring Data Analyst**  
+**AI & Data Science Enthusiast | Skilled in Python & Machine Learning | Aspiring Data Scientist**  
 
 ---
 
