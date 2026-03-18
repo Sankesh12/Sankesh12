@@ -5,8 +5,8 @@
 ---
 
 ## 🧑‍💻 About Me
-I specialize in turning raw data into actionable insights and building machine learning models that solve real-world problems.  
-Currently focused on advancing skills in **Deep Learning, Generative AI and Agentic AI**, while building projects to showcase expertise.
+- I specialize in turning raw data into actionable insights and building machine learning models that solve real-world problems.  
+- I have hands-on experience in **Python, data analysis**. I am passionate about applying my skills to real-world problems, learning new technologies, and creating innovative solutions    in AI and Data Science. 
 
 **Career Goal:** Seeking internship/full-time roles in **Data Science & Machine Learning** to contribute in impactful projects.
 
@@ -61,8 +61,7 @@ Currently focused on advancing skills in **Deep Learning, Generative AI and Agen
 ---
 
 ## 🌟 Interests & Soft Skills
-- Open-source AI/ML projects 🌐  
-- Learning Deep Learning & Generative AI 🤖  
+- Open-source AI/ML projects 🌐   
 - Problem-solving, Collaboration, Creativity, Time-management, Adaptability and Communication 💡  
 
 ---
