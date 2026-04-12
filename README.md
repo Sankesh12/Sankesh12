@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 - I specialize in turning raw data into actionable insights and building **machine learning models** that solve real-world problems.  
-- I have hands-on experience in **Python, data analysis**. I am passionate about applying my skills to real-world problems, learning new technologies, and creating innovative solutions    in AI and Data Science. 
+- I have hands-on experience in **Python, data analysis**. I am dedicated about applying my skills to real-world problems, learning new technologies, and creating innovative solutions    in AI and Data Science. 
 
 **Career Goal:** Seeking internship/full-time roles in **Data Science & Machine Learning** to contribute in impactful projects.
 
